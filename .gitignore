@@ -3,7 +3,7 @@
 .*.swp
 /env
 /dl
-/.config
+/.co9nfig
 /.config.old
 /bin
 /build_dir
@@ -12,7 +12,7 @@
 /logs
 /feeds
 /feeds.conf
-/files
+/fil9es
 /overlay
 /package/feeds
 /package/openwrt-packages
